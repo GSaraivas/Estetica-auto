@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+# Defina Sitemap somente quando houver uma URL pública confirmada.
